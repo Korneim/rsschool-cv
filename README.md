@@ -1,1 +1,1 @@
-https://korneim.github.io/rsschool-cv/cv
+https://korneim.github.io/rsschool-cv/
